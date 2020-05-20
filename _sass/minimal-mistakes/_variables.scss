@@ -18,6 +18,11 @@ $indent-var: 1.3em !default;
 //   "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
 // $monospace: Monaco, Consolas, "Lucida Console", monospace !default;
 
+@font-face {
+   font-family: "NanumBarunGothic YetHangul";
+   src: url('../../assets/css/NanumBarunGothic-YetHangul.ttf');
+}
+
 $serif: "NanumBarunGothic YetHangul" !default;
 $sans-serif: "NanumBarunGothic YetHangul" !default;
 $monospace: "NanumBarunGothic YetHangul" !default;
