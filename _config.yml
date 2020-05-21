@@ -95,8 +95,8 @@ analytics:
 author:
   name             : "ᄃᆞᇌᄣᅢ"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "**Me** Last"
+  location         : "Tokyo"
   email            :
   links:
     - label: "Email"
@@ -277,5 +277,17 @@ defaults:
       author_profile: true
       read_time: true
       comments: # true
+      share: true
+      related: true
+
+    # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false # true
       share: true
       related: true
