@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko"
-title                    : "Site Title"
+title                    : "Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Your Name"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "ᄃᆞᇌᄣᅢ"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "**Me** Last"
+  bio              : "정대형"  #"**Me** Last"
   location         : "Tokyo"
   email            :
   links:

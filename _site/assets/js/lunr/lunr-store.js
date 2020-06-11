@@ -4,4 +4,10 @@ var store = [{
         "tags": ["시(詩)"],
         "url": "http://localhost:4000/post/bi/",
         "teaser": null
+      },{
+        "title": "백두산도중",
+        "excerpt":" ","categories": ["post"],
+        "tags": ["독후감"],
+        "url": "http://localhost:4000/post/h/",
+        "teaser": null
       }]

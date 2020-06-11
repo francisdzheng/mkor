@@ -17,15 +17,19 @@ $indent-var: 1.3em !default;
 // $sans-serif: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
 //   "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
 // $monospace: Monaco, Consolas, "Lucida Console", monospace !default;
-
 @font-face {
-   font-family: "NanumBarunGothic YetHangul";
-   src: url('../../assets/NanumBarunGothic-YetHangul.ttf');
+   // font-family: "NanumBarunGothic YetHangul";
+   // src: url('../../assets/NanumBarunGothic-YetHangul.ttf');
+   // font-family: 'Hind';
+   // src: url('https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&display=swap');
+
+   font-family: 'Titilium Web';
+   src: url('https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap');
 }
 
-$serif: "NanumBarunGothic YetHangul" !default;
-$sans-serif: "NanumBarunGothic YetHangul" !default;
-$monospace: "NanumBarunGothic YetHangul" !default;
+$serif: "Titilium Web" !default;
+$sans-serif: "Titilium Web" !default;
+$monospace: "Titilium Web" !default;
 
 /* sans serif typefaces */
 $sans-serif-narrow: $sans-serif !default;
