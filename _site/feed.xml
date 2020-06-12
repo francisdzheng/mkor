@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/mkor/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/mkor/" rel="alternate" type="text/html" /><updated>2020-06-12T23:46:12+09:00</updated><id>http://localhost:4000/mkor/feed.xml</id><title type="html">Blog</title><subtitle>An amazing website.</subtitle><author><name>ᄃᆞᇌᄣᅢ</name></author><entry><title type="html">장마</title><link href="http://localhost:4000/mkor/post/jangma/" rel="alternate" type="text/html" title="장마" /><published>2020-06-12T00:00:00+09:00</published><updated>2020-06-12T22:06:00+09:00</updated><id>http://localhost:4000/mkor/post/jangma</id><content type="html" xml:base="http://localhost:4000/mkor/post/jangma/">&lt;p&gt;일본도 슬슬 이제 장마철 시작이란다. 매일 비 소식은 있지만 아직까지는 그렇게 많이 내리지는 않으니 산책은 할 수가 있다. 오늘도 비 오기 전 집 근처 롯폰기 힐즈로 산책 나갔다.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/mkor/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/mkor/" rel="alternate" type="text/html" /><updated>2020-06-12T23:51:36+09:00</updated><id>http://localhost:4000/mkor/feed.xml</id><title type="html">Blog</title><subtitle>An amazing website.</subtitle><author><name>ᄃᆞᇌᄣᅢ</name></author><entry><title type="html">장마</title><link href="http://localhost:4000/mkor/post/jangma/" rel="alternate" type="text/html" title="장마" /><published>2020-06-12T00:00:00+09:00</published><updated>2020-06-12T22:06:00+09:00</updated><id>http://localhost:4000/mkor/post/jangma</id><content type="html" xml:base="http://localhost:4000/mkor/post/jangma/">&lt;p&gt;일본도 슬슬 이제 장마철 시작이란다. 매일 비 소식은 있지만 아직까지는 그렇게 많이 내리지는 않으니 산책은 할 수가 있다. 오늘도 비 오기 전 집 근처 롯폰기 힐즈로 산책 나갔다.&lt;/p&gt;
 
 &lt;!-- 
 
@@ -23,8 +23,8 @@
   &lt;figcaption&gt;六本木ヒルズ&lt;/figcaption&gt;
 &lt;/figure&gt; --&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/jangma/IMG_3397.JPG&quot; alt=&quot;&quot; class=&quot;width-half&quot; /&gt;
-&lt;img src=&quot;/assets/images/jangma/IMG_3400.JPG&quot; alt=&quot;&quot; class=&quot;width-half&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/mkor/assets/images/jangma/IMG_3397.JPG&quot; alt=&quot;&quot; class=&quot;width-half&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/mkor/assets/images/jangma/IMG_3400.JPG&quot; alt=&quot;&quot; class=&quot;width-half&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;‘장마’라는 말은 한자어와 고유어가 결합된 것이다.&lt;/p&gt;
 
