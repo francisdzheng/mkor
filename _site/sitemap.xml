@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/post/hunminjeongeum/</loc>
+<loc>http://localhost:4000/mkor/post/hunminjeongeum/</loc>
 <lastmod>2018-02-19T22:06:00+09:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/post/bi/</loc>
+<loc>http://localhost:4000/mkor/post/bi/</loc>
 <lastmod>2020-05-21T22:06:00+09:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/post/jangma/</loc>
+<loc>http://localhost:4000/mkor/post/jangma/</loc>
 <lastmod>2020-06-12T22:06:00+09:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/about/</loc>
+<loc>http://localhost:4000/mkor/about/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/</loc>
+<loc>http://localhost:4000/mkor/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/posts/</loc>
+<loc>http://localhost:4000/mkor/posts/</loc>
 </url>
 </urlset>

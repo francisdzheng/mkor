@@ -1,4 +1,4 @@
-I"T<div class="page__footer-follow">
+I"Y<div class="page__footer-follow">
   <ul class="social-icons">
     
       <li><strong>팔로우:</strong></li>
@@ -20,7 +20,7 @@
       
     
 
-    <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> 피드</a></li>
+    <li><a href="/mkor/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> 피드</a></li>
   </ul>
 </div>
 
