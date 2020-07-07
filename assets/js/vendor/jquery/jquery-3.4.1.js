@@ -6451,7 +6451,7 @@ var
 	cssShow = { position: "absolute", visibility: "hidden", display: "block" },
 	cssNormalTransform = {
 		letterSpacing: "0",
-		fontWeight: "400"
+		font: "400"
 	};
 
 function setPositiveNumber( elem, value, subtract ) {
@@ -6625,7 +6625,7 @@ jQuery.extend( {
 		"fillOpacity": true,
 		"flexGrow": true,
 		"flexShrink": true,
-		"fontWeight": true,
+		"font": true,
 		"gridArea": true,
 		"gridColumn": true,
 		"gridColumnEnd": true,

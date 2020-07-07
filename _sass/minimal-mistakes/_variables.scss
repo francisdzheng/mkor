@@ -20,7 +20,7 @@ $indent-var: 1.3em !default;
 @font-face {
    font-family: "NanumBarunGothic YetHangul";
    src: url('../../assets/NanumBarunGothic-YetHangul.ttf');
-
+   
    // font-family: 'Hind';
    // src: url('https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&display=swap');
 
@@ -28,7 +28,10 @@ $indent-var: 1.3em !default;
    // src: url('https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap');
 
    // font-family: '새바탕';
-   // src: url('../../assets/nBatang.ttf'); ?? 안 됨
+   // src: url('../../assets/nBatang.ttf'); 
+
+   // font-family: "카카오OTF";
+   // src: url('../../assets/KakaoOTF-aLt.otf');
 }
 
 $serif: "NanumBarunGothic YetHangul" !default;

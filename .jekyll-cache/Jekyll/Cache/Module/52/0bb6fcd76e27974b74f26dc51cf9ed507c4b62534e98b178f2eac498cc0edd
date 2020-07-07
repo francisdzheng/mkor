@@ -1,4 +1,4 @@
-I"(<!-- Including InstantSearch.js library and styling -->
+I""<!-- Including InstantSearch.js library and styling -->
 <script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.3.3/dist/instantsearch.min.js"></script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.3.3/dist/instantsearch.min.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.3.3/dist/instantsearch-theme-algolia.min.css">
@@ -37,7 +37,7 @@ search.addWidget(
   instantsearch.widgets.searchBox({
     container: '.search-searchbar',
     
-    placeholder: '검색어를 입력하세요...'
+    placeholder: 'Enter your search term...'
   })
 );
 search.addWidget(
